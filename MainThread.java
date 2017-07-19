@@ -1,7 +1,6 @@
 package com.example.hasthir.traininggame;
 
 import android.graphics.Canvas;
-import android.provider.Settings;
 import android.view.SurfaceHolder;
 
 /**
